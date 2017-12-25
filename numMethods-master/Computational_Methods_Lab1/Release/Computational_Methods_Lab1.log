@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(138): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(147): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(149): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(168): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(222): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(250): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(275): warning C4018: <: несоответствие типов со знаком и без знака
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: точка входа должна быть определена

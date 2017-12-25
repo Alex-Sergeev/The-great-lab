@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(111): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(119): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(168): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(180): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\drinker\documents\visual studio 2015\projects\computational_methods_lab1\computational_methods_lab1\MyMethodBase.h(243): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+MSVCRT.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ WinMain в функции "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)
+C:\Users\Drinker\documents\visual studio 2015\Projects\Computational_Methods_Lab1\x64\Release\Computational_Methods_Lab1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,30 @@
+﻿  matrix.cpp
+  MyForm.cpp
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(660): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(721): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(724): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(727): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(728): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(736): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(739): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(765): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(766): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(775): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(776): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(892): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(77): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(70): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(773): note: выполняется компиляция ссылки на экземпляр шаблон функции "QSMatrix<double> QSMatrix<double>::getReversed(void)"
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(667): note: выполняется компиляция ссылки на экземпляр шаблон класс "QSMatrix<double>"
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(78): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(59): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\MyForm.h(687): note: выполняется компиляция ссылки на экземпляр шаблон функции "double QSMatrix<double>::Det(void)"
+c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(30): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\alex\documents\github\the-great-lab\nummethods-master\computational_methods_lab1\matrix.h(79): note: выполняется компиляция ссылки на экземпляр шаблон функции "double QSMatrix<double>::subDet(int,int)"
+  Создание кода...
+  matrix.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Computational_Methods_Lab1.vcxproj -> C:\Users\Alex\Documents\GitHub\The-great-lab\numMethods-master\x64\Debug\Computational_Methods_Lab1.exe

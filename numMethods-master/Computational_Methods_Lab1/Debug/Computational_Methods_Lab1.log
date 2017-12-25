@@ -1,0 +1,47 @@
+﻿  matrix.cpp
+  MyForm.cpp
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\monom.h(68): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\polynom.h(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\polynom.h(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\polynom.h(43): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\polynom.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\polynom.h(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\polynom.h(89): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(668): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(729): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(732): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(735): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(736): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(744): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(747): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(771): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(774): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(776): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(783): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(784): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(807): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(830): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(832): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(895): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(77): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(70): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(781): note: выполняется компиляция ссылки на экземпляр шаблон функции "QSMatrix<double> QSMatrix<double>::getReversed(void)"
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(675): note: выполняется компиляция ссылки на экземпляр шаблон класс "QSMatrix<double>"
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(78): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(64): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(59): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\MyForm.h(695): note: выполняется компиляция ссылки на экземпляр шаблон функции "double QSMatrix<double>::Det(void)"
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(35): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(30): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(79): note: выполняется компиляция ссылки на экземпляр шаблон функции "double QSMatrix<double>::subDet(int,int)"
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\spore\desktop\nummethodsformwithresize\computational_methods_lab1\matrix.h(50): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  matrix.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Computational_Methods_Lab1.vcxproj -> C:\Users\spore\Desktop\numMethodsFormWithResize\Debug\Computational_Methods_Lab1.exe
